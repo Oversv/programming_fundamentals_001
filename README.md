@@ -18,7 +18,7 @@ In the coding exercises we just _choose_ to teach Javascript in the same way tha
 
 We'll be making use of the Javascript programming language within a [Node](https://nodejs.org/en/) environment and utilising a test framework called [Jest]( https://jestjs.io/en/) to run our code.
 
-## Instructions
+## InstructionsmakeHalfPrice
 
 Head on over to the [instructions for forking and cloning this repository](./docs/PRE-REQUISITES.md).
 
